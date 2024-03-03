@@ -2,6 +2,8 @@ Techpriest_Baunach Blog
 A place for long(ish) format writing.
 Finished stuff will end up on my website, this is a place for drafts and stuff that's unfinished, but I think is still worth sharing.
 
+To comment: submit pull request with comment in under the post, indented with '>>'
+
           -
           |
 O=========|>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -39,6 +41,9 @@ Their intellectual pursuits are to save what is good from amongst the deaf and b
 
 They love to explore, their scouts are always on the move. And one day soon, they will carry their crosses to other planets. For the acts of mercy are for all of God's creation.
 
+[Comments
+>>Comment here
+
           -
           |
 O=========|>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -66,6 +71,9 @@ When they get bored in a conversation, they make a ringing noise, pull out the p
 
 They want to show you a video, they give the dead phone to you, and then just start to act out the video.
 
+[Comments
+>>Comment here
+
           -
           |
 O=========|>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -92,3 +100,6 @@ It becomes an act of rectifying an evil. Property belonging to a No-one, becomes
 But that highlights the problem: it is very difficult to appropriate property from the beloved son of the state. The state cares not whether itself, or large corporations, are legitimate or neutral, let alone good.
 
 It is not easy to purge evil from our midst. It will require blood, sweat, and tears. But Christ leads the way, we will carry the cross of large corporations, and be crucified upon the hill of government.
+
+[Comments
+>>Comment here
