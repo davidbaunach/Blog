@@ -2,7 +2,11 @@ Techpriest_Baunach Blog
 A place for long(ish) format writing.
 Finished stuff will end up on my website, this is a place for drafts and stuff that's unfinished, but I think is still worth sharing.
 
-To comment: submit pull request with comment in under the post, indented with '>>'
+To comment: submit pull request with comment under the post, indented with '>>', dated, and with some sort of name.
+Example:
+This is the post
+>>2024.03.06, Xcon
+>>This is the comment
 
           -
           |
